@@ -1,1 +1,1 @@
-<image src = "matrix" width = "325px"
+<image src = "matrix" width = "325px">
