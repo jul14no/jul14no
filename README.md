@@ -23,11 +23,10 @@
 
 <h1 align="center">👋Olá, É um prazer ter vocês por aqui!</h1>
 
-###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-###
+### 
 
 <p align="left">
   Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou explorando o universo do <a href="https://www.salesforce.com/trailblazer/jrf-87" target="_blank">Salesforce</a> e mergulhando no mundo da análise de dados através do projeto Alura + Oracle.
@@ -38,7 +37,7 @@
 </p>
 
 
-###
+---
 
 <h3 align="left">🛠 Tecnologis</h3>
 
@@ -62,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">🔥   Minhas estatísticas</h3>
 
