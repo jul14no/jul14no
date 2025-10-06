@@ -63,7 +63,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jul14no&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jul14no&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jul14no&locale=pt-br&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
