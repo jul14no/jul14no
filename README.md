@@ -29,7 +29,7 @@
 ### 
 
 <p align="left">
-  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou explorando o universo do <a href="https://www.salesforce.com/trailblazer/jrf-87" target="_blank">Salesforce</a> e mergulhando no mundo da análise de dados através do projeto Alura + Oracle.
+  Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente, estou explorando o universo do <a href="https://www.salesforce.com/trailblazer/jrf-87" target="_blank">Salesforce</a> e mergulhando no mundo da análise de dados através do projeto Alura + Oracle.
   <br><br>📍 Pernambucano com orgulho!
   <br><br> - 🔭 Atuando como Analista de Suporte, onde aprendo e evoluo todos os dias.
   <br> - 📚 Em constante aprendizado na área de Análise de Dados.
